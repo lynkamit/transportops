@@ -13,7 +13,7 @@ const InvoiceForm = ({ setInvoices, invoices = [] }) => {
     clientCarrier: "",
     clientCarrierInvoiceNumber: "",
     invoiceDate: new Date().toISOString().split('T')[0],
-    driverName: "Lucky2",
+    driverName: "Lucky3",
     pickupDate: "",
     pickupAddress: "",
     deliveryDate: "",
